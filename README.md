@@ -1,2 +1,3 @@
 # Flower-Classification-Deep-Learning-Neural-Network-Model-Project
 In this repository, I detail the development of an image classification neural network model using TensorFlow in Python. The project covers data preprocessing for fruits and vegetables, converting image datasets from folders into arrays with TensorFlow, constructing a deep learning neural network with multiple layers in a Sequential model, training and evaluating the model, and ultimately deploying the image classification neural network as a web application.
+![home](https://github.com/VidathChamikara/Flower-Classification-Deep-Learning-Neural-Network-Model-Project/assets/86880920/166391aa-5e78-4adc-a339-9337c766671b)
